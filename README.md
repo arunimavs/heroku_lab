@@ -1,9 +1,9 @@
 # Fish Classification
 
-## Problem Statement
+#### Problem Statement
 This project will be all about defining and training a classfication problem to identify the species of a fish.
 
-## About Dataset
+#### About Dataset
 This dataset contains information on seven distinct fish species that are commonly sold at fish markets.
 Below is a sample of the first 5 rows of data.
 
@@ -24,18 +24,18 @@ There are total of seven different species which are
 6. Pike
 7. Smelt
 
-## Download the Dataset
+#### Download the Dataset
 Dataset is already attached in  the code zip named fish.csv
 Datset is taken from  : https://www.kaggle.com/aungpyaeap/fish-market
 
 #### Install the project
 Clone the project from  : 
 
-## Train the model
+#### Train the model
 1. Run the ipynb file to understand the working of model 
 2. Download the model.pkl file generated 
 
-## Run the model : 
+#### Run the model : 
 1. Attach model.pkl file in location of FlaskApp.py file.
 2. Attach the templates and static folder which contains teh styling and front end pages on same location
 3. Run FlaskApp to host it locally.
