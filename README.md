@@ -24,6 +24,19 @@ There are total of seven different species which are
 6. Pike
 7. Smelt
 
+Based on its 6 features below 
+•	'Species': Name of the species
+•	'Weight': Weight of individual fish in grams
+•	'Length 1': Vertical length in cm
+•	'Length 2': Diagonal length in cm
+•	'Length 3': Cross length in cm
+•	'Height': Height in cm
+•	'Width': Width in cm
+•	
+Our dependent variable is ‘Species'. 
+Independent variables are 'Weight', 'Length 1', 'Length 2', 'Length 3', 'Height' and 'Width'
+We will use independent variables (measurements of the fish) to estimate dependent variable (species of the fish).
+
 #### Download the Dataset
 Dataset is already attached in  the code zip named fish.csv
 Datset is taken from  : https://www.kaggle.com/aungpyaeap/fish-market
