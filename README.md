@@ -29,7 +29,7 @@ Dataset is already attached in  the code zip named fish.csv
 Datset is taken from  : https://www.kaggle.com/aungpyaeap/fish-market
 
 #### Install the project
-Clone the project from  : 
+Clone the project from  : https://github.com/arunimavs/heroku_lab.git
 
 #### Train the model
 1. Run the ipynb file to understand the working of model 
