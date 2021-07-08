@@ -31,9 +31,20 @@ Datset is taken from  : https://www.kaggle.com/aungpyaeap/fish-market
 #### Install the project
 Clone the project from  : https://github.com/arunimavs/heroku_lab.git
 
+#### Prerequiste
+1. Install python on machine 
+2. Make sure we have flask installed on machine. If not install it using 
+  ```sh
+  pip install flask 
+  ```
 #### Train the model
-1. Run the ipynb file to understand the working of model 
-2. Download the model.pkl file generated 
+1. Got o folder directory using cd folderpath
+2. Run the ipynb file to understand the working of model
+- 
+   ```sh
+  python filename.py
+  ```
+3. Download the model.pkl file generated 
 
 #### Run the model : 
 1. Attach model.pkl file in location of FlaskApp.py file.
